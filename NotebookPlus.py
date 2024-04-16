@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-closecloseFalse
+# -*- coding: utf-8 -*-
 
 # Copyright (c) Bruno Santome Antolín 2024
 # For license see LICENSE
